@@ -1,0 +1,29 @@
+.loader img{
+  position: absolute;
+  left: 50%;
+  top: 200px;
+  width: 20%;
+  z-index: 1;
+}
+
+.displayTrue {
+  display: block;
+}
+
+.displayFalse {
+  display: none;
+}
+.products{
+  /* display: flex; */
+    position: relative;
+    /* width: 250px; */
+    height: 230px;
+    box-shadow: 0px 0px 2px 4px #ccc;
+    border-radius: 5px;
+    margin: 50px;
+    float: left;
+}
+
+.pTitle{
+text-align: center;
+}

@@ -1,0 +1,21 @@
+.star-active{
+    color: #ffba37;
+}
+
+.star-in-active{
+    color: grey;
+}
+
+.buckets{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1120px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.btnArrow{
+    width: 30px;
+    border-radius: 20px;
+    background-color: lightseagreen;
+}

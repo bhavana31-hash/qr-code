@@ -1,0 +1,25 @@
+body{
+ margin: 0 !important;
+ padding: 0;
+ box-sizing: border-box;
+
+}
+.inputSearch{
+    width: 200px;
+      background-color: #ccc;
+      border: 1px solid #ccc;
+      height: 28px;
+  }
+  
+.btnSearch{
+    width: 30px;
+      border: 2px solid #ccc;
+      border-radius: 1px;
+      background-color: #ccc;
+  }
+
+
+
+  form{
+    float: left;
+  }

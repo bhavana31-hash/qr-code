@@ -1,0 +1,19 @@
+.tic-tac-container{
+    margin-top: 100px;
+    align-items: center;
+    display: table;
+    display: flex;
+    flex-direction: column;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #45a191;
+    float: right;
+    justify-content: center;
+    /* margin-left: 100px; */
+    text-align: center;
+    font-size: 30px;
+    background-color: #e8fbf0;
+}
